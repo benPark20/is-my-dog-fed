@@ -1,1 +1,1 @@
-# is-my-dog-fed
+This 3d print simply tracks if you have fed your dog or other pet. It has 3 sliders, one for each meal, and it can be easily modified to have 2. I made this because it is important to make sure your pet has acess to the food they need.
